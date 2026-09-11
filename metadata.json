@@ -1,0 +1,6 @@
+{
+  "name": "زينة - سجل الآجل",
+  "description": "تطبيق شركة زينة للتوريدات لمتابعة حسابات الآجل وديون العملاء وتحديد المواقع بالـ GPS وتنبيهات التحصيل الذكية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
